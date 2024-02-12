@@ -1,7 +1,3 @@
-# Machine Learning Project : Covid-19
-
-Un modèle pour prédire si un patient est malade ou non.
-
 
 Python - Database
 ---
