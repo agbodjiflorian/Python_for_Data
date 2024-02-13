@@ -23,3 +23,5 @@ Objectif: Utiliser Python pour interagir avec une base de données postgresql.
 - Récupérer un nombre défini de résultats avec fetchmany
 - Requête d'interrogation préparée
 - Une fonction pour récupérer tous les élèves pour un nom donné
+
+4. CREATION DE BASE DE DONNEES Postgresql
